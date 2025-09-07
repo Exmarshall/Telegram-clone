@@ -46,7 +46,10 @@
     "react-native-svg": "15.11.2",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
-    "stream-chat-expo": "^7.2.8"
+    "stream-chat": "^9.19.0",
+    "stream-chat-expo": "^7.2.8",
+    "expo-media-library": "~17.1.7",
+    "expo-audio": "~0.4.9"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
