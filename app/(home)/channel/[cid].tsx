@@ -20,7 +20,7 @@ export default function ChannelScreen() {
     }, [cid])
 
     if (!channel) {
-        return <ActivityIndicator />
+        return <ActivityIndicator size="large" color="#0000ff" />
     }
     return (
         <Channel channel={channel}>
